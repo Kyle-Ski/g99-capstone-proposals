@@ -6,50 +6,48 @@ Please complete this project proposal thoroughly so that your instructors can re
 
 ## Project Description
 
-
+My project is a mobile app that will help you pack for trips. It will allow you to create multiple "backpacks" that are a complete list of everything you will need for the trip. When you are about to go on a trip, you select the coorisponding backpack and scan the items you are about to pack. The app will then check the picture of items and count the number you have and tell you if you have everything or if you are forgetting a number of items.
 
 ## Problem Statement
 
-
+While packing for a trip, you may forget to include items.
 
 ## How will your project solve this problem?
 
-
+Packr will alleviate the feeling that you forgot something while packing for a trip. By taking a picture of the items you plan to pack, Packr will tell you before hand if you have everything you need, or if you are missing a number of items.
 
 ## 5 user stories (at least):
 
-*
-*
-*
-*
-*
+* As a returning user, I want a place to view all of my backpacks.
+* As a returning user, I want to be able to create a new backpack for a different hike.
+* As a returning user, I want to check the bag I'm currently packing to make sure everyting is in it.
+* As a new user, I want a place to sign up so I can store info.
+* As a returning user, I want to be able to sign into my own profile.
+* As a returning user, I want to be able to edit a backpack.
+* As a returning user, I want to be able to delete a backpack
 
 ## What technologies do you plan to use?
 
-This does not need to be an exhaustive list. We want you to identify major technologies you will be using. This list may grow or shrink as your project progresses.
-
-*
+#### Initial
+* Google Tensorflow
+* Python
+* React Native
+* Node.js
+* Knex.js
+* Express.js
+#### Pivot
+* NFC
+* Vue Native
+* Node.js
+* Knex.js
+* Express.js
 
 ## ERD - Entity Relationship Diagram
 
-This does not need to be your absolute final ERD. We want you thinking about your data and how it might be related. Your ERD can be adjusted as your project progresses. 
-* **You can draw it out & take a picture (quickest option) or use:**
-* [Lucidchart](https://www.lucidchart.com/)
-* Any other software you like
-
-[ERD](https://drive.google.com/open?id=1eryimzwKBobgDU9F1yjYs4sof4ac971s)
+[ERD](https://photos.app.goo.gl/p5qt2PEwyq642Mf57)
 * Has some info incase a pivot is needed
 
 ## Wireframes
 
-Inlcude some wireframes of your project.
-* **You can draw them out & take a picture (quickest option) or use:**
-* [Wireframe.cc](https://wireframe.cc/)
-* [Draw.io](https://www.draw.io/)
-* [Lucidchart](https://www.lucidchart.com/)
-* Any other software you like
-
-[Wireframe](https://drive.google.com/open?id=1rz7WT9swYgrMJkIiFIdn9u2EpNyxTYc5)
+[Wireframe](https://photos.app.goo.gl/yANdpVfJXRrYw3N47)
 * Items in blue are the screens/features for a pivot
-
-Do not spend more than 2 hours on your wireframes.
