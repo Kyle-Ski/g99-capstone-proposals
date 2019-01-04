@@ -37,7 +37,8 @@ This does not need to be your absolute final ERD. We want you thinking about you
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
 
-
+[ERD](https://drive.google.com/open?id=1eryimzwKBobgDU9F1yjYs4sof4ac971s)
+* Has some info incase a pivot is needed
 
 ## Wireframes
 
@@ -47,5 +48,8 @@ Inlcude some wireframes of your project.
 * [Draw.io](https://www.draw.io/)
 * [Lucidchart](https://www.lucidchart.com/)
 * Any other software you like
+
+[Wireframe](https://drive.google.com/open?id=1rz7WT9swYgrMJkIiFIdn9u2EpNyxTYc5)
+* Items in blue are the screens/features for a pivot
 
 Do not spend more than 2 hours on your wireframes.
